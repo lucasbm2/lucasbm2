@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Lucas! 👋</h1>
+# Hi there, I'm Lucas! 👋
 
 <img src="https://github.com/user-attachments/assets/a22c2f45-c686-4226-812f-9a9e96857f6f" alt="imagen-programador" width="300" height="300" />
 
