@@ -6,7 +6,7 @@
 - 🌱 Learning Java, OOP, information file management, and Android Studio.
 - 👯 Looking to collaborate on Java-related projects.
 - 🤔 Seeking help with interesting new coding languages.
-- 💬 Ask me about Java, MySQL, and IntelliJ.
+- 💬 Ask me about Java, MySQL, Odoo.
 - 📫 How to reach me: [LinkedIn 🔗](https://www.linkedin.com/in/lucasbmolina/)
 - 😄 Pronouns: He.
 - ⚡ Fun fact: Exploring investment opportunities and visiting natural sites.
